@@ -1,0 +1,2 @@
+=> "express validator" is used to check the whether the user already exists are the user entered the correct password or not
+=> "bcryptjs" is used to make our passsword more strong using salt and pepper
